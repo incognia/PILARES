@@ -23,11 +23,11 @@
 */
 
 void setup() {
-    // coloca tu código de configuración para que se ejecuta una vez:
+    // coloca tu código de configuración para que se ejecute una vez:
 
 }
 
 void loop() {
-    // coloca tu código principal para quq se ejecute repetidamente:
+    // coloca tu código principal para que se ejecute repetidamente:
 
 }
