@@ -1,5 +1,5 @@
 {
-    "sketch": "Arduino\\01 Básico\\01_LED.ino",
+    "sketch": "Arduino\\minimo.ino",
     "board": "arduino:avr:uno",
     "programmer": "arduino:avrispmkii",
     "port": "COM3"
