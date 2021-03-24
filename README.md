@@ -21,7 +21,7 @@ Años más tarde, mientras intentaba recuperar unos archivos de la computadora d
 
 Si bien me acerqué a GNU/Linux por razones prácticas, me quedé en el mundo del software libre cuestiones filosóficas. No volví a ser el mismo después de de leer «**El derecho a leer**», de Richard Stallman, y «**La catedral y el bazar**» de Eric S. Raymond. Casi no podía creer que existieran personas con un conocimiento técnico altamente especializado y que decidieran compartirlo voluntaria y gratuitamente.
 
-```arduino=
+```arduino
 int tiempo = 500;
 
 void setup()
