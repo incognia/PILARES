@@ -1,6 +1,6 @@
 {
-    "sketch": "Arduino\\Minimum.ino",
+    "sketch": "Arduino\\01-Basico\\02-12LED\\02-12LED.ino",
     "board": "arduino:avr:uno",
     "programmer": "arduino:avrispmkii",
-    "port": "COM3"    
+    "port": "COM3"
 }
