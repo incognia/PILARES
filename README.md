@@ -20,3 +20,28 @@ Desde el principio tuve que trabajar con diferentes sistemas operativos. En la e
 Años más tarde, mientras intentaba recuperar unos archivos de la computadora del director general, conocí Linux y fue amor a primera vista. Era un Conectiva Linux 5, una distribución brasileña que más tarde se fusionó con Mandrake ─una distribución francesa─ para formar Mandriva. Esa misma semana también probé un SuSE 7.
 
 Si bien me acerqué a GNU/Linux por razones prácticas, me quedé en el mundo del software libre cuestiones filosóficas. No volví a ser el mismo después de de leer «**El derecho a leer**», de Richard Stallman, y «**La catedral y el bazar**» de Eric S. Raymond. Casi no podía creer que existieran personas con un conocimiento técnico altamente especializado y que decidieran compartirlo voluntaria y gratuitamente.
+
+```arduino
+int tiempo = 500;
+
+void setup()
+{
+    for(int led=2; led<=13; led++){
+        pinMode(led, OUTPUT);
+    }
+}
+
+void loop()
+{
+    for(int led=2; led<=13; led++){
+        digitalWrite(led, HIGH);
+        delay(tiempo);
+        digitalWrite(led, LOW);
+    }
+    for(int led=13; led>=2; led--){
+        digitalWrite(led, HIGH);
+        delay(tiempo);
+        digitalWrite(led, LOW);
+    }
+}
+```
