@@ -48,6 +48,7 @@
 
 1) Semáforo
 2) Alarma de estacionamiento
+3) Sensor ultrasónico con termómetro
 
 ## Módulo 5: proyectos
 
