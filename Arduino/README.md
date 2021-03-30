@@ -6,9 +6,9 @@
 2) Conoce Arduino
 3) Arduino IDE
     1) Instalación
-        - Linux
-        - macOS
-        - Windows
+        1) Linux
+        2) macOS
+        3) Windows
     2) Interfaz
     3) Configuración
 4) Tinkercad
